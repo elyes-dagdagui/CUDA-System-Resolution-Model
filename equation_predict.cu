@@ -1,9 +1,9 @@
 /// equation_predict.cu
 /// CUDA SDK source code script >> Heavy mathematical predictive model runs on GPU for extreme performance
-/// Project GitHub Repos: (xxx)
-/// Developer Name   : ELYES DAGDAGUI 
-/// Developer Email  : dagdaguielyes50@gmail.com
-/// Developer Github : https://github.com/elyes-dagdagui
+/// Project GitHub Repos : https://github.com/elyes-dagdagui/CUDA-System-Resolution-Model
+/// Developer Name       : ELYES DAGDAGUI 
+/// Developer Email      : dagdaguielyes50@gmail.com
+/// Developer Github     : https://github.com/elyes-dagdagui
 
 // Includes
 #include <iostream>
